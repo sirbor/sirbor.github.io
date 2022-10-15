@@ -1,0 +1,54 @@
+.txt-col {
+  color: #1a1c20;
+}
+
+.bg-dark-light {
+  background-color: #23262b;
+}
+
+.txt-green {
+  color: #03c4a1;
+}
+
+.bg-green {
+  background-color: #03c4a1;
+}
+
+.grad-txt {
+  background-image: linear-gradient(to right, #fc5c7d, #6a82fb);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+}
+.cl-div {
+  background: rgba(189, 189, 189, 0.621);
+  backdrop-filter: blur(4px);
+  -webkit-backdrop-filter: blur(4px);
+}
+
+/* hover */
+
+.animate1 {
+  animation: slide-down 1s forwards;
+}
+.animate2 {
+  animation: slide-down 1.8s forwards;
+}
+.animate3 {
+  animation: slide-down 2.5s forwards;
+}
+
+@keyframes slide-down {
+  from {
+    opacity: 0;
+    transform: translateY(-50px);
+  }
+  to {
+    opacity: 1;
+    transform: none;
+  }
+}
+
+.triangle {
+  clip-path: polygon(1% 0, 0% 100%, 100% 50%);
+  background-color: #03c4a1;
+}
