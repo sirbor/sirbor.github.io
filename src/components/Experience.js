@@ -90,18 +90,6 @@ const Experience = () => {
           >
             Labs Afrika
           </button>
-          <button
-            onClick={() => showCompany(2)}
-            className={workData[1].isVisible ? activeClass : inactiveClass}
-          >
-           Globalnet LLC
-          </button>
-          <button
-            onClick={() => showCompany(3)}
-            className={workData[2].isVisible ? activeClass : inactiveClass}
-          >
-            Wazi pay
-          </button>
         </div>
         <div>
           {workExp.map((work, index) => {

@@ -1,7 +1,7 @@
 # Portfolio website v1.0.1
 
 Built this simple and awesome portfolio website !!
-Click here for [Demo](https://jutsu.tech).
+Click here for [Demo](https://sirbor.tech).
 
 # Tech Stack
 
@@ -12,11 +12,11 @@ Click here for [Demo](https://jutsu.tech).
 
 ### clone the repository
 
-    git clone https://github.com/starc007/saurabh.git
+    git clone https://github.com/sirbor/portstream.git
 
 ### go to the project directory
 
-    cd saurabh
+    cd portstream
 
 ### Install dependencies
 
@@ -30,7 +30,7 @@ Click here for [Demo](https://jutsu.tech).
 
 # Feedback
 
-If you have any feedback, please reach out to me on [Linkedin](https://www.linkedin.com/in/starc007) or [Twitter](https://www.twitter.com/saurra3h)
+If you have any feedback, please reach out to me on [Linkedin](https://www.linkedin.com/in/dominicbor) or [Twitter](https://www.twitter.com/sirbor_)
 
 ## Want to use this template?
 
