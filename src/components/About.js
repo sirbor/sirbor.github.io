@@ -27,13 +27,13 @@ const About = () => {
       and Lambdas to execute highly scalable API microservices deployed using a CI/CD pipeline.
       </p>
       <p className="mb-6 font-medium text-gray-100 text-xl">
-        Currently i'm available to participate in interesting Web 2 & 3Projects, schedule a
+        Currently i'm available to participate in interesting Android development & Web 3 Projects, schedule a
         <a
           href="https://calendly.com/sirbor/30min"
           target="_blank"
           className="underline txt-green ml-1"
         >
-          call
+          chat
         </a>
       </p>
       <div className=" mb-10">
