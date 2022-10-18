@@ -18,13 +18,13 @@ const About = () => {
         Hi! i'm Dominic Bor
       </p>
       <p className="text-2xl sm:text-4xl font-bold py-4 txt-green animate2">
-         I write code for the internet
+        I write code for the internet
       </p>
       <p className="text-gray-300 animate3 sm:text-xl text-base mt-4 mb-6 ">
-      I have almost a three years of Software Engineering experience and work with React,
-      Node, Typescript, Java,Kotlin and Ruby on Rails, as well as Postgres and MongoDB databases.
-      Likewise, I've put up infrastructure on GCP and AWS utilizing Kubernetes, Docker Containers,
-      and Lambdas to execute highly scalable API microservices deployed using a CI/CD pipeline.
+        I have almost a three years of Software Engineering experience and work with React,
+        Node, Typescript, Java,Kotlin and Ruby on Rails, as well as Postgres and MongoDB databases.
+        Likewise, I've put up infrastructure on GCP and AWS utilizing Kubernetes, Docker Containers,
+        and Lambdas to execute highly scalable API microservices deployed using a CI/CD pipeline.
       </p>
       <p className="mb-6 font-medium text-gray-100 text-xl">
         Currently i'm available to participate in interesting Android development & Web 3 Projects, schedule a
@@ -66,9 +66,10 @@ const About = () => {
       >
         Resume
       </a>
-      <a href="https://www.buymecoffee.com/sirbor"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width = "200" />
-        Buy Me A coffee
-      </a>
+      <div >
+        <a href="https://www.buymecoffee.com/sirbor"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="200" />
+        </a>
+      </div>
     </div>
   );
 };
