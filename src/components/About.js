@@ -66,6 +66,9 @@ const About = () => {
       >
         Resume
       </a>
+      <a href="https://www.buymecoffee.com/sirbor"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width = "200" />
+        Buy Me A coffee
+      </a>
     </div>
   );
 };
