@@ -13,7 +13,7 @@ const Details = [
   {
     title: "Weather App",
     description:
-      "Aweather App to check on weather forecast in any location using either celcius or Fahrenheit",
+      "A weather App to check on weather forecast in any location using either celcius or Fahrenheit",
     github: "https://github.com/sirbor/Weather-app",
     demo: "https://weather44-app.netlify.app",
     tech: ["HTML","CSS", "Javascript"],
@@ -33,6 +33,22 @@ const Details = [
     github: "https://github.com/sirbor/Dating-App",
     demo: "https://github.com/sirbor/Dating-App/blob/main/lovedating1.2.apk",
     tech: ["Java"],
+  },
+  {
+    title: "Chat Bot",
+    description:
+      "A chat application built in MERN stack with socket.io.",
+    github: "https://github.com/sirbor/chat-Bot",
+    demo: "https://github.com/sirbor/chat-Bot#readme",
+    tech: ["Mongo DB", "Express.js", "React", "Node js"],
+  },
+  {
+    title: "School Scheduler",
+    description:
+      "Creates a schedule for all users.",
+    github: "https://github.com/sirbor/school-scheduler",
+    demo: "https://github.com/sirbor/school-scheduler#readme",
+    tech: ["HTML","CSS", "Javascript", "Java", "My SQL"],
   },
 ];
 
