@@ -5,7 +5,7 @@ const Details = [
   {
     title: "Neumorphic Calculator",
     description:
-      "A basic calculatore",
+      "A basic calculator",
     github: "https://github.com/sirbor/Neumorphic-calculator",
     demo: "https://neumorphic-calculator.netlify.app",
     tech: ["HTML", "CSS", "Javascript"],
