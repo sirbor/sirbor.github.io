@@ -13,7 +13,7 @@ const workExp = [
       "Work with software development and testing team members to design and develop robust solutions to meet client requirements for functionality, scalability and performance.",
       "Adjusted design parameters to incorporate new features.",
       "Developed robust, scalable, modular and API-centric infrastructures.",
-      "Promoted experience with Kubernetes, Docker and Amazon Web Services.", 
+      "Promoted experience with Kubernetes, Docker and Amazon Web Services.",
       "Collaborated with fellow engineers to evaluate software and hardware interfaces",
       "Partnered with development team on product development and application support plans.",
       "Integrated third-party tools and components into applications.",
@@ -40,7 +40,7 @@ const workExp = [
       "Implementation of a robust set of services and APIs to power the web application.",
       "Integration of the front-end and back-end aspects of the web application."
     ],
-    isVisible: true,
+    isVisible: false,
   },
   {
     id: 3,
@@ -98,16 +98,14 @@ const Experience = () => {
             Rapid Research
           </button>
 
-        </div>
-        <div className="flex md:flex-col flex-row items-start text-gray-100 ">
-          <button
-            onClick={() => showCompany(1)}
+          <button onClick={() => showCompany(1)}
             className={workData[0].isVisible ? activeClass : inactiveClass}
           >
             Labs Afrika
           </button>
 
         </div>
+
         <div>
           {workExp.map((work, index) => {
             return (
