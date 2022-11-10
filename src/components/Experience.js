@@ -97,12 +97,16 @@ const Experience = () => {
           >
             Rapid Research
           </button>
+
+        </div>
+        <div className="flex md:flex-col flex-row items-start text-gray-100 ">
           <button
             onClick={() => showCompany(1)}
             className={workData[0].isVisible ? activeClass : inactiveClass}
           >
             Labs Afrika
           </button>
+
         </div>
         <div>
           {workExp.map((work, index) => {
