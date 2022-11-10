@@ -26,10 +26,10 @@ const workExp = [
   },
   {
     id: 2,
-    position: "Full Stack Developer",
-    companyName: "Linkedphone",
-    from: "Aug 2021",
-    to: "Aug 2022",
+    position: "Software Engineer",
+    companyName: "Labs Afrika",
+    from: "April 2020",
+    to: "Sept 2021",
     current: false,
     description: [
       "Working with a variety of languages, platforms, frameworks, and content management systems.",
