@@ -4,11 +4,33 @@ import { FaRegBuilding } from "react-icons/fa";
 const workExp = [
   {
     id: 1,
-    position: "Software Engineer",
-    companyName: "Labs Afrika",
-    from: "Aug 2020",
+    position: "Software Engineer ",
+    companyName: "Rapid Reasearch",
+    from: "Sep 2021",
     to: "",
     current: true,
+    description: [
+      "Work with software development and testing team members to design and develop robust solutions to meet client requirements for functionality, scalability and performance.",
+      "Adjusted design parameters to incorporate new features.",
+      "Developed robust, scalable, modular and API-centric infrastructures.",
+      "Promoted experience with Kubernetes, Docker and Amazon Web Services.", 
+      "Collaborated with fellow engineers to evaluate software and hardware interfaces",
+      "Partnered with development team on product development and application support plans.",
+      "Integrated third-party tools and components into applications.",
+      "Participated in architecture, design and implementation of back-end features using Node js, Typescript and Python.",
+      "Designed enhancements and updates for subsystems of end-user applications software running on local, networked and Internet-based platforms.",
+      "Collaborated with management, internal and development partners regarding software application design status and project progress.",
+      "Updated old code bases to modern development standards, improving functionality."
+    ],
+    isVisible: true,
+  },
+  {
+    id: 2,
+    position: "Software Engineer",
+    companyName: "Labs Afrika",
+    from: "April 2020",
+    to: "Sept 2021",
+    current: false,
     description: [
       "Working with a variety of languages, platforms, frameworks, and content management systems.",
       "Coding and deploying application in a cross-platform, cross-browser environment.",
@@ -19,21 +41,6 @@ const workExp = [
       "Integration of the front-end and back-end aspects of the web application."
     ],
     isVisible: true,
-  },
-  {
-    id: 2,
-    position: "Web Developer",
-    companyName: "Globalnet LLC",
-    from: "Feb 2019",
-    to: "Aug 2020",
-    current: false,
-    description: [
-      "Wrote and maintained a new functionality for the product that was successfully implemented in production.",
-      "Improved product UI using HTML,CSS, JavaScript and Jquery.",
-      "Developed websocket api using AWS lambda and API gateway in Node.js",
-      "Improved the code structure, Built reusable functions.",
-    ],
-    isVisible: false,
   },
   {
     id: 3,
