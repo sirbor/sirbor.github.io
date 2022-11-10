@@ -95,6 +95,12 @@ const Experience = () => {
             onClick={() => showCompany(1)}
             className={workData[0].isVisible ? activeClass : inactiveClass}
           >
+            Rapid Research
+          </button>
+          <button
+            onClick={() => showCompany(1)}
+            className={workData[0].isVisible ? activeClass : inactiveClass}
+          >
             Labs Afrika
           </button>
         </div>
