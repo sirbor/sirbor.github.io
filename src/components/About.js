@@ -50,7 +50,7 @@ const About = () => {
           <div className="flex flex-col space-y-1 mt-2">
             <Skill title="Javascript" />
             <Skill title="Typescript" />
-            <Skill title="Nodejs" />
+            <Skill title="C++" />
           </div>
           <div className="flex flex-col space-y-1 mt-2">
             <Skill title="Python" />
