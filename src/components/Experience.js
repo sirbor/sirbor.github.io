@@ -4,9 +4,9 @@ import { FaRegBuilding } from "react-icons/fa";
 const workExp = [
   {
     id: 1,
-    position: "Software Engineer ",
-    companyName: "Rapid Reasearch",
-    from: "Sep 2021",
+    position: "Software Engineer",
+    companyName: "Rapid Research",
+    from: "Sept 2021",
     to: "",
     current: true,
     description: [
@@ -26,10 +26,10 @@ const workExp = [
   },
   {
     id: 2,
-    position: "Software Engineer",
-    companyName: "Labs Afrika",
-    from: "April 2020",
-    to: "Sept 2021",
+    position: "Full Stack Developer",
+    companyName: "Linkedphone",
+    from: "Aug 2021",
+    to: "Aug 2022",
     current: false,
     description: [
       "Working with a variety of languages, platforms, frameworks, and content management systems.",
@@ -45,8 +45,8 @@ const workExp = [
   {
     id: 3,
     position: "Software Developer Intern",
-    companyName: "Wazi pay",
-    from: " 2021",
+    companyName: "Eboyo",
+    from: "March 2021",
     to: "July 2021",
     current: false,
     description: [
@@ -97,15 +97,19 @@ const Experience = () => {
           >
             Rapid Research
           </button>
-
-          <button onClick={() => showCompany(1)}
-            className={workData[0].isVisible ? activeClass : inactiveClass}
+          <button
+            onClick={() => showCompany(2)}
+            className={workData[1].isVisible ? activeClass : inactiveClass}
           >
             Labs Afrika
           </button>
-
+          <button
+            onClick={() => showCompany(3)}
+            className={workData[2].isVisible ? activeClass : inactiveClass}
+          >
+            Eboyo
+          </button>
         </div>
-
         <div>
           {workExp.map((work, index) => {
             return (
@@ -118,7 +122,6 @@ const Experience = () => {
                     {work.position}{" "}
                     <span className="txt-green">@{work.companyName}</span>
                   </p>
-                  {/* <p className="text-gray-400 text-sm font-medium"></p> */}
                 </div>
                 <div className="flex flex-col space-y-2 mt-3">
                   <p className="text-gray-200 text-sm font-medium">
