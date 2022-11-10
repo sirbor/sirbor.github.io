@@ -18,11 +18,11 @@ const About = () => {
         Hi! i'm Dominic Bor
       </p>
       <p className="text-2xl sm:text-4xl font-bold py-4 txt-green animate2">
-        I write code for the internet
+        Software Engineer
       </p>
       <p className="text-gray-300 animate3 sm:text-xl text-base mt-4 mb-6 ">
         I have almost a three years of Software Engineering experience and work with React,
-        Node, Typescript, Java,Kotlin and Ruby on Rails, as well as Postgres and MongoDB databases.
+        Node, Typescript and Python, as well as MySQL, Postgres and MongoDB databases.
         Likewise, I've put up infrastructure on GCP and AWS utilizing Kubernetes, Docker Containers,
         and Lambdas to execute highly scalable API microservices deployed using a CI/CD pipeline.
       </p>
