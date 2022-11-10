@@ -53,9 +53,9 @@ const About = () => {
             <Skill title="Nodejs" />
           </div>
           <div className="flex flex-col space-y-1 mt-2">
+            <Skill title="Python" />
+            <Skill title="SQL" />
             <Skill title="Java" />
-            <Skill title="Kotlin" />
-            <Skill title="Ruby on Rails" />
           </div>
         </div>
       </div>

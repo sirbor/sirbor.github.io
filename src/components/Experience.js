@@ -42,20 +42,7 @@ const workExp = [
     ],
     isVisible: false,
   },
-  {
-    id: 3,
-    position: "Software Developer Intern",
-    companyName: "Eboyo",
-    from: "March 2021",
-    to: "July 2021",
-    current: false,
-    description: [
-      "Built various ui Reusable components in React used across applications and quickly built various prototypes with information gathered from the product team.",
-      "Improved user experience and accomplish webpage objectives by creating site structure, navigation, page optimization and graphics integraton.",
-      "Built stable and maintainable codebases using React.",
-    ],
-    isVisible: false,
-  },
+  
 ];
 
 const Experience = () => {
@@ -103,12 +90,7 @@ const Experience = () => {
           >
             Labs Afrika
           </button>
-          <button
-            onClick={() => showCompany(3)}
-            className={workData[2].isVisible ? activeClass : inactiveClass}
-          >
-            Eboyo
-          </button>
+
         </div>
         <div>
           {workExp.map((work, index) => {
