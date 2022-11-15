@@ -95,15 +95,15 @@ const Work = () => {
         ))}
       </div>
       <p className="text-gray-300 mt-5">
-        Not Enough ? Checkout my{" "}
+        Read ? My{" "}
         <a
-          href="https://github.com/sirbor?tab=repositories"
+          href="https://blog.sirbor.tech/"
           target="_blank"
           className="txt-green underline font-medium px-1"
         >
-          Github
+          Blog
         </a>{" "}
-        account
+        !
       </p>
     </div>
   );
