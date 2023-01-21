@@ -54,7 +54,7 @@ const About = () => {
           </div>
           <div className="flex flex-col space-y-1 mt-2">
             <Skill title="Python" />
-            <Skill title="SQL" />
+            <Skill title="Rust" />
             <Skill title="Java" />
           </div>
         </div>
