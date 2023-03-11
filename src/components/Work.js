@@ -32,7 +32,7 @@ const Details = [
       "The Rental Management System is a web application for managing rental properties.",
     github: "https://github.com/sirbor/Rental_Management",
     demo: "https://github.com/sirbor/Rental_Management",
-    tech: ["HTML.CSS,PHP and MySQL"],
+    tech: ["HTML","CSS","PHP","MySQL"]
   },
   {
     title: "Chat Bot",
