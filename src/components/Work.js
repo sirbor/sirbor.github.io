@@ -27,12 +27,12 @@ const Details = [
     tech: ["C++"],
   },
   {
-    title: "Dating App",
+    title: "Rental Management System",
     description:
-      "A love dating app like Tinder",
-    github: "https://github.com/sirbor/Dating-App",
-    demo: "https://github.com/sirbor/Dating-App/blob/main/lovedating1.2.apk",
-    tech: ["Java"],
+      "The Rental Management System is a web application for managing rental properties.",
+    github: "https://github.com/sirbor/Rental_Management",
+    demo: "https://github.com/sirbor/Rental_Management",
+    tech: ["HTML.CSS,PHP and MySQL"],
   },
   {
     title: "Chat Bot",

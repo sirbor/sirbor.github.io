@@ -10,17 +10,17 @@ const workExp = [
     to: "February 2023",
     current: true,
     description: [
-      "- Build and maintain a portfolio of high-quality web applications using React, Next.js, and Tailwind CSS to create responsive and visually appealing user interfaces.",
+      "Build and maintain a portfolio of high-quality web applications using React, Next.js, and Tailwind CSS to create responsive and visually appealing user interfaces.",
 
-      "- Develop and implement scalable back-end solutions using Node.JS and TypeScript to support the needs of various web applications, ensuring that they meet business requirements.",
+      "Develop and implement scalable back-end solutions using Node.JS and TypeScript to support the needs of various web applications, ensuring that they meet business requirements.",
 
-      "- Utilize Agile methodologies to ensure a continuous delivery of value, with regular deliveries of working software that met stakeholder needs, and continuously improve development processes.",
+      "Utilize Agile methodologies to ensure a continuous delivery of value, with regular deliveries of working software that met stakeholder needs, and continuously improve development processes.",
 
-      "- Maintain and optimize relational databases using MySQL and MongoDB to ensure high performance and reliability of applications, and proactively identify and solve potential database-related issues.",
+      "Maintain and optimize relational databases using MySQL and MongoDB to ensure high performance and reliability of applications, and proactively identify and solve potential database-related issues.",
 
-      "- Collaborate with cross-functional teams, including developers, designers, and product managers, to ensure seamless integration of front-end and back-end components and deliver high-quality software.",
+      "Collaborate with cross-functional teams, including developers, designers, and product managers, to ensure seamless integration of front-end and back-end components and deliver high-quality software.",
 
-      "- Contribute to the development of cloud-based solutions using Linux, Git, and Docker environments to improve scalability, reliability, and automate the build, test, and deployment processes, and keep up-to-date with industry best practices."
+      "Contribute to the development of cloud-based solutions using Linux, Git, and Docker environments to improve scalability, reliability, and automate the build, test, and deployment processes, and keep up-to-date with industry best practices."
     ],
     isVisible: true,
   },
