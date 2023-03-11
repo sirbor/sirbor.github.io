@@ -4,31 +4,31 @@ import { FaRegBuilding } from "react-icons/fa";
 const workExp = [
   {
     id: 1,
-    position: "Software Engineer",
+    position: "Software Engineer Intern",
     companyName: "Rapid Research",
-    from: "Sept 2021",
-    to: "",
+    from: "Sept 2022",
+    to: "February 2023",
     current: true,
     description: [
-      "Working with software development and testing team members to design and develop robust solutions to meet client requirements for functionality, scalability and performance.",
-      "Adjusting design parameters to incorporate new features.",
-      "Developing robust, scalable, modular and API-centric infrastructures.",
-      "Promoting experience with Kubernetes, Docker and Amazon Web Services.",
-      "Collaborating with fellow engineers to evaluate software and hardware interfaces",
-      "Partnering with development team on product development and application support plans.",
-      "Integrating third-party tools and components into applications.",
-      "Participating in architecture, design and implementation of back-end features using Node js, Typescript and Python.",
-      "Designing enhancements and updates for subsystems of end-user applications software running on local, networked and Internet-based platforms.",
-      "Collaborating with management, internal and development partners regarding software application design status and project progress.",
-      "Updating old code bases to modern development standards, improving functionality."
+      "- Build and maintain a portfolio of high-quality web applications using React, Next.js, and Tailwind CSS to create responsive and visually appealing user interfaces.",
+
+      "- Develop and implement scalable back-end solutions using Node.JS and TypeScript to support the needs of various web applications, ensuring that they meet business requirements.",
+
+      "- Utilize Agile methodologies to ensure a continuous delivery of value, with regular deliveries of working software that met stakeholder needs, and continuously improve development processes.",
+
+      "- Maintain and optimize relational databases using MySQL and MongoDB to ensure high performance and reliability of applications, and proactively identify and solve potential database-related issues.",
+
+      "- Collaborate with cross-functional teams, including developers, designers, and product managers, to ensure seamless integration of front-end and back-end components and deliver high-quality software.",
+
+      "- Contribute to the development of cloud-based solutions using Linux, Git, and Docker environments to improve scalability, reliability, and automate the build, test, and deployment processes, and keep up-to-date with industry best practices."
     ],
     isVisible: true,
   },
   {
     id: 2,
-    position: "Software Engineer",
+    position: "Software Engineer Intern",
     companyName: "Labs Afrika",
-    from: "April 2020",
+    from: "April 2021",
     to: "Sept 2021",
     current: false,
     description: [
