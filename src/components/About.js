@@ -21,13 +21,14 @@ const About = () => {
         Software Engineer
       </p>
       <p className="text-gray-300 animate3 sm:text-xl text-base mt-4 mb-6 ">
-        I have almost a three years of Software Engineering experience and work with React,
-        Node, Typescript and Python, as well as MySQL, Postgres and MongoDB databases.
-        Likewise, I've put up infrastructure on GCP and AWS utilizing Kubernetes, Docker Containers,
-        and Lambdas to execute highly scalable API microservices deployed using a CI/CD pipeline.
+        As a skilled software developer with a strong background in object-oriented programming and database management, I am proficient in C++, Java, PHP, MySQL, PostreSQL, and MongoDB. 
+        I also have extensive experience in front-end development using HTML, CSS, React, and Next Js, as well as a solid understanding of Javascript and Typescript.
+        My knowledge of the software development lifecycle (SDLC), including Agile methodologies, allows me to work effectively as part of a team and deliver high-quality software products within project deadlines.
+        Additionally, I am familiar with npm and Git version control skills and have expertise in Linux, Git, and Docker environments.
+        Overall, I am a versatile and adaptable developer with a passion for creating efficient, scalable, and user-friendly software solutions.
       </p>
       <p className="mb-6 font-medium text-gray-100 text-xl">
-        Currently i'm available to participate in interesting Android development & Web 3 Projects, schedule a
+        Currently i'm available to participate in interesting Android development & Web Applications, schedule a
         <a
           href="https://calendly.com/sirbor/30min"
           target="_blank"
@@ -53,8 +54,8 @@ const About = () => {
             <Skill title="C++" />
           </div>
           <div className="flex flex-col space-y-1 mt-2">
-            <Skill title="Python" />
-            <Skill title="Rust" />
+            <Skill title="PHP" />
+            <Skill title="SQL" />
             <Skill title="Java" />
           </div>
         </div>
