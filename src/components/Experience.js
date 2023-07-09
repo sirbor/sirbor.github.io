@@ -10,17 +10,17 @@ const workExp = [
     to: "February 2023",
     current: true,
     description: [
-      "Build and maintain a portfolio of high-quality web applications using React, Next.js, and Tailwind CSS to create responsive and visually appealing user interfaces.",
+      "Continuously build and maintain a portfolio of high-quality web applications using React, Next.js, and Tailwind CSS to create responsive and visually appealing user interfaces that consistently meet user expectations and drive positive user experiences."
 
-      "Develop and implement scalable back-end solutions using Node.JS and TypeScript to support the needs of various web applications, ensuring that they meet business requirements.",
+"Develop and implement scalable back-end solutions using Node.js and TypeScript to support the evolving needs of various web applications, ensuring they align with business requirements and deliver optimal performance and functionality over time."
 
-      "Utilize Agile methodologies to ensure a continuous delivery of value, with regular deliveries of working software that met stakeholder needs, and continuously improve development processes.",
+"Utilize Agile methodologies to ensure a continuous delivery of value, maintaining a steady pace of regular releases of working software that consistently meets stakeholder needs and incorporates valuable feedback. Continuously improve development processes to enhance efficiency and productivity."
 
-      "Maintain and optimize relational databases using MySQL and MongoDB to ensure high performance and reliability of applications, and proactively identify and solve potential database-related issues.",
+"Proactively maintain and optimize relational databases using MySQL and MongoDB, ensuring ongoing high performance and reliability of applications. Continuously monitor and address potential database-related issues to minimize downtime and ensure smooth operation."
 
-      "Collaborate with cross-functional teams, including developers, designers, and product managers, to ensure seamless integration of front-end and back-end components and deliver high-quality software.",
+"Collaborate seamlessly with cross-functional teams, including developers, designers, and product managers, to ensure the seamless integration of front-end and back-end components. Deliver high-quality software through effective communication, coordination, and teamwork."
 
-      "Contribute to the development of cloud-based solutions using Linux, Git, and Docker environments to improve scalability, reliability, and automate the build, test, and deployment processes, and keep up-to-date with industry best practices."
+"Stay up to date with industry best practices and trends in cloud-based solutions, Linux, Git, and Docker environments. Continuously contribute to the development of cutting-edge solutions that improve scalability, reliability, and automate build, test, and deployment processes to stay ahead of evolving technological advancements."
     ],
     isVisible: true,
   },
