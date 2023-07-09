@@ -10,17 +10,17 @@ const workExp = [
     to: "February 2023",
     current: true,
     description: [
-      "Continuously build and maintain a portfolio of high-quality web applications using React, Next.js, and Tailwind CSS to create responsive and visually appealing user interfaces that consistently meet user expectations and drive positive user experiences."
+      "Developed and maintained a portfolio of high-quality web applications using React, Next.js, and Tailwind CSS within a Java-based microservices architecture. Integrated RESTful web services to enhance the user experience.",
 
-"Develop and implement scalable back-end solutions using Node.js and TypeScript to support the evolving needs of various web applications, ensuring they align with business requirements and deliver optimal performance and functionality over time."
+"Implemented scalable back-end solutions using Node.js, TypeScript, and Spring Boot to support web applications and microservices. Leveraged AWS services, such as Lambda and S3, for seamless integration and efficient data management.",
 
-"Utilize Agile methodologies to ensure a continuous delivery of value, maintaining a steady pace of regular releases of working software that consistently meets stakeholder needs and incorporates valuable feedback. Continuously improve development processes to enhance efficiency and productivity."
+"Employed Agile methodologies to deliver value through regular releases of working software, utilizing CI/CD pipelines to automate build, test, and deployment processes for Java-based microservices and web applications.",
 
-"Proactively maintain and optimize relational databases using MySQL and MongoDB, ensuring ongoing high performance and reliability of applications. Continuously monitor and address potential database-related issues to minimize downtime and ensure smooth operation."
+"Optimized relational databases (MySQL and MongoDB) within the microservices architecture to ensure high performance and reliability. Proactively identified and resolved potential database-related issues, adhering to best practices and industry standards.",
 
-"Collaborate seamlessly with cross-functional teams, including developers, designers, and product managers, to ensure the seamless integration of front-end and back-end components. Deliver high-quality software through effective communication, coordination, and teamwork."
+"Collaborated effectively with cross-functional teams, including developers, designers, and product managers, to seamlessly integrate front-end and back-end components within the microservices architecture. Ensured alignment with Spring Boot frameworks and RESTful web service standards.",
 
-"Stay up to date with industry best practices and trends in cloud-based solutions, Linux, Git, and Docker environments. Continuously contribute to the development of cutting-edge solutions that improve scalability, reliability, and automate build, test, and deployment processes to stay ahead of evolving technological advancements."
+"Contributed to the development of cloud-based solutions using Linux, Git, and Docker environments, in conjunction with AWS services. Leveraged serverless computing with Lambda functions and utilized S3 for efficient data storage and retrieval within the microservices architecture."
     ],
     isVisible: true,
   },
