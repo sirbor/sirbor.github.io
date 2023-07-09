@@ -32,14 +32,12 @@ const workExp = [
     to: "Sept 2021",
     current: false,
     description: [
-      "Wrote clear, clean code for various projects.",
-      "Tested new applications for usability and adherence to code plan.",
-      "Proofread technical documentation and user manuals.",
-      "Analyzed source code to identify functionality issues.",
-      "Collaborated with developers to identify and remove software bugs.",
-      "Handled scripting tasks for debugging and automation.",
-      "Sat in on design team and planning meetings.",
-      "Delivered project reports and milestone updates to team lead."
+      "Utilized front-end languages (HTML, CSS, JavaScript) and frameworks (AngularJS, jQuery, Bootstrap) to develop, modify, and maintain websites and web application user interfaces.",
+"Translated design wireframes into functional code, collaborating with senior professionals for guidance and support.",
+"Assisted in the creation of tools to enhance user experience and interaction with the site, ensuring multi-browser compatibility and optimal performance.",
+"Implemented responsive design principles to create mobile-friendly websites.",
+"Acted as a liaison between design/creative teams and back-end development, ensuring seamless integration and optimizing functionality, performance, scalability, security, and internationalization.",
+"Conducted usability testing during development, addressing bugs and ensuring a high-quality user experience, with guidance and support from senior professionals."
     ],
     isVisible: false,
   },
