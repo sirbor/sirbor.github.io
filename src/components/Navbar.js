@@ -10,7 +10,7 @@ const Navbar = () => {
   return (
     <div className="flex justify-between w-full items-center py-6">
       <img
-        src="https://media.licdn.com/dms/image/D4D03AQEtEJ0jxbL19g/profile-displayphoto-shrink_800_800/0/1673940418112?e=1683763200&v=beta&t=U5xfTN5doT9SEZQCZ6z-D7isFl-7zAWJ7pdqRY_ul3w"
+        src="https://avatars.githubusercontent.com/u/81163082?s=400&u=e0a7d975cc0a2ca06959246a7faaa7d1ab9ef2b5&v=4"
         className="rounded-full h-10 w-10 border"
       />
 
