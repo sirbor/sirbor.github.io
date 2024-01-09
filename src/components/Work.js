@@ -3,12 +3,12 @@ import { AiFillSetting } from "react-icons/ai";
 
 const Details = [
   {
-    title: "Neumorphic Calculator",
+    title: "KadiPay",
     description:
-      "A basic calculator",
-    github: "https://github.com/sirbor/Neumorphic-calculator",
-    demo: "https://neumorphic-calculator.netlify.app",
-    tech: ["HTML", "CSS", "Javascript"],
+      "KadiPay is your gateway to effortless cryptocurrency-to-fiat conversions, with a primary focus on USD and Kes.",
+    github: "https://github.com/sirbor/KadiPay",
+    demo: "https://github.com/sirbor/KadiPay",
+    tech: ["Typescript", "Solidity", "Javascript", "HTML", "CSS"],
   },
   {
     title: "Weather App",
@@ -35,12 +35,12 @@ const Details = [
     tech: ["HTML","CSS","PHP","MySQL"]
   },
   {
-    title: "Chat Bot",
+    title: "Tubonge",
     description:
-      "A chat application built in MERN stack with socket.io.",
-    github: "https://github.com/sirbor/chat-Bot",
-    demo: "https://github.com/sirbor/chat-Bot#readme",
-    tech: ["Mongo DB", "Express.js", "React", "Node js"],
+      "A Full Stack Chat Application using React and Firebase. Some of the features include Features Group Chats Google",
+    github: "https://github.com/sirbor/Tubonge",
+    demo: "https://github.com/sirbor/Tubonge",
+    tech: ["Typescript", "HTML", "React", "Firebase"],
   },
   {
     title: "School Scheduler",
