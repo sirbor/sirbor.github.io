@@ -6,8 +6,8 @@ const workExp = [
     id: 1,
     position: "Software Engineer Intern",
     companyName: "Rapid Research",
-    from: "Sept 2022",
-    to: "February 2023",
+    from: "Oct 2023",
+    to: "Dec 2023",
     current: true,
     description: [
       "Developed and maintained a portfolio of high-quality web applications using React, Next.js, and Tailwind CSS within a Java-based microservices architecture. Integrated RESTful web services to enhance the user experience.",
@@ -28,8 +28,8 @@ const workExp = [
     id: 2,
     position: "Software Engineer Intern",
     companyName: "Labs Afrika",
-    from: "April 2021",
-    to: "Sept 2021",
+    from: "May 2023",
+    to: "Aug 2023",
     current: false,
     description: [
       "Utilized front-end languages (HTML, CSS, JavaScript) and frameworks (AngularJS, jQuery, Bootstrap) to develop, modify, and maintain websites and web application user interfaces.",
