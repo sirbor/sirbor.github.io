@@ -95,13 +95,13 @@ const Work = () => {
         ))}
       </div>
       <p className="text-gray-300 mt-5">
-        Read ? My{" "}
+        My Reads {" "}
         <a
-          href="https://blog.sirbor.tech/"
+          href="https://www.readthistwice.com/sirbor/my-reads"
           target="_blank"
           className="txt-green underline font-medium px-1"
         >
-          Blog
+          Books
         </a>{" "}
         !
       </p>
