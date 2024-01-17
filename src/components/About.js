@@ -45,13 +45,13 @@ const About = () => {
         <div className="flex space-x-12">
           <div className="flex flex-col space-y-1 mt-2">
             <Skill title="Java" />
-            <Skill title="C++" />
-            <Skill title="PHP" />
+            <Skill title="Javascript" />
+            <Skill title="Python" />
           </div>
           <div className="flex flex-col space-y-1 mt-2">
-            <Skill title="Javascript" />
+            <Skill title="Typecript" />
             <Skill title="SQL" />
-            <Skill title="Python" />
+            <Skill title="Bash" />
           </div>
         </div>
       </div>
